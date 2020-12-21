@@ -1,1 +1,3 @@
-This is a document about birds
+This is a document about birds.
+
+Birds are afraid of Rabbits. For information see rabbits.txt
